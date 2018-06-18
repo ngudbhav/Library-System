@@ -70,8 +70,8 @@ public void run()
 			//naamget = naam.getText();
 		}
 	System.out.println("Sending mail...");
-	String USER_NAME = "ngudbhav05@hotmail.com";  // GMail user name (just the part before "@gmail.com")
-    String PASSWORD = "UdbhavKarishma"; // GMail password
+	String USER_NAME = "--------E-Mail address------";  // GMail user name (just the part before "@gmail.com")
+    String PASSWORD = "------password-------"; // GMail password
     String RECIPIENT = "ngudbhav05@gmail.com";
 
    	String from = USER_NAME;
